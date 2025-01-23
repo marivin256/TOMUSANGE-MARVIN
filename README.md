@@ -1,2 +1,3 @@
 # TOMUSANGE-MARVIN
-My personal repository
+HI THERE!
+I am currently learning web and mobile app development.
